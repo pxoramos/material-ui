@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "@emotion/core": "11.0.0",
-    "@emotion/react": "11.7.1",
-    "@emotion/styled": "11.6.0",
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
     "@mui/material": "5.0.0-alpha.34",
     "@mui/icons-material": "5.0.0-alpha.34",
     "@mui/lab": "5.0.0-alpha.34",
@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "concurrently": "6.5.1",
-    "playwright": "1.17.1",
+    "playwright": "1.24.2",
     "serve": "11.3.2"
   }
 }
